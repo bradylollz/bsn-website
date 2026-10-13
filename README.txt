@@ -1,2 +1,1 @@
-BSN multi-page website. Open index.html. Includes BSN project artwork, but not original images extracted from Google Sites. Replace placeholders and social URLs before publication.
-V11: MLB removed from visible navigation and category links. MLB page retained as archive. Approved NBA/NFL category artwork applied.
+BSN GitHub Pages image fix: Upload ALL files from this ZIP directly into the ROOT of the bsn-website repository (not inside a folder). Images and HTML files must be side by side. Replace existing HTML files when prompted.
